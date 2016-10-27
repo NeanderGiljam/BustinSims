@@ -1,0 +1,10 @@
+Bustin Sims TODO & Reminders
+
+TODO:
+
+- Object placement
+
+
+Reminders/Suggestions:
+
+- Freeform object placement using raycast to check if spot is free
